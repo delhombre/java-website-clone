@@ -25,6 +25,7 @@ const toggleMenu = (e) => {
 	} else {
 		navMenu.classList.add("hidden");
 		navMenu.classList.remove("flex");
+		document.body.style.overflow = "scroll";
 	}
 	searchForm.classList.toggle("hidden");
 };
