@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+	--java: #3a75b0;
+	--java-foreground: #006b8f;
+	--alert: #f0c000;
+	--alert-foreground: #ffffce;
+	--download: #198754;
+	--download-accent: #157347;
+	--download-foreground: #437c9433;
+	--accent: #001166;
+	--accent-foreground: #2d5986;
+	--orange: #e76f00;
+}
